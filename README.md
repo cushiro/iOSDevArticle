@@ -75,6 +75,9 @@ iOS技术文章
 - [CocoaPods Under The Hood - Build Tools - objc.io issue #6](http://www.objc.io/issue-6/cocoapods-under-the-hood.html)
   - [深入理解 CocoaPods](http://blog.jobbole.com/53365/)
 
+- [IOS Application Security Part 25 – Secure Coding Practices for IOS Development](http://resources.infosecinstitute.com/ios-application-security-part-25-secure-coding-practices-ios-development/)
+  - [iOS应用程序安全(25)-iOS开发安全编程实践](http://wufawei.com/2013/11/ios-application-security-25/)
+
 ## 2012
 
 ### 11月
