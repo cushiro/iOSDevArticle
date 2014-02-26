@@ -10,9 +10,14 @@ iOS技术文章
 - [25 iOS App Performance Tips & Tricks](http://www.marcelofabri.com/25-ios-app-performance-tips-and-tricks/)
   - [iOS应用性能调优的25个建议和技巧](http://blog.jobbole.com/37984/)
 
+- [IOS Application security Part 1 – Setting up a mobile pentesting platform](http://resources.infosecinstitute.com/ios-application-security-part-1-setting-up-a-mobile-pentesting-platform/)
+  - [iOS应用程序安全(1)-搭建移动渗透测试平台](http://wufawei.com/2013/11/ios-application-security-1/)
+
 ### 5月
 
 - [谈谈Objective-C的警告](http://onevcat.com/2013/05/talk-about-warning/)
+- [IOS Application security Part 2 – Getting class information of IOS apps](http://resources.infosecinstitute.com/ios-application-security-part-2-getting-class-information-of-ios-apps/)
+  - [iOS应用程序安全(2)-获得iOS应用程序的类信息](http://wufawei.com/2013/11/ios-application-security-2/)
 
 ### 6月
 
@@ -24,6 +29,9 @@ iOS技术文章
   - [iOS汇编教程：ARM(2)](http://beyondvincent.com/blog/2013/06/20/91/)
 
 - [WWDC 2013 Session笔记 - SpriteKit快速入门和新时代iOS游戏开发指南](http://onevcat.com/2013/06/sprite-kit-start/)
+
+- [IOS Application security Part 3 – Understanding the Objective-C Runtime](http://resources.infosecinstitute.com/ios-application-security-part-3-understanding-the-objective-c-runtime/)
+  - [iOS应用程序安全(3)-理解Objective-C Runtime](http://wufawei.com/2013/11/ios-application-security-3/)
 
 ### 7月
 
