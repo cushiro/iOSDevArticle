@@ -179,6 +179,3 @@ iOS技术文章
 - [Dynamic Tips & Tricks with Objective-C](http://pilky.me/view/21)
   - [(译)Objective-C的动态特性](http://blog.leezhong.com/ios/2013/08/03/dynamic-tips-and-tricks-with-objective-c.html)
 
-## 2010
-
-- [[IPhone开发]NSDateFormatter的格式字符串](http://aminby.net/2010/08/iphone-nsdateformatter-format-strings/)
