@@ -68,6 +68,9 @@ iOS技术文章
 - [IOS Application Security Part 11 – Analyzing Network Traffic over HTTP/HTTPS](http://resources.infosecinstitute.com/ios-application-security-part-11-analyzing-network-traffic-over-httphttps/)
   - [iOS应用程序安全(11)-分析使用HTTP/HTTPS的网络流量](http://wufawei.com/2013/11/ios-application-security-11/)
 
+- [Thread-Safe Class Design](http://www.objc.io/issue-2/thread-safe-class-design.html)
+  - [线程安全类的设计](http://ansonzhao.com/blog/2013/11/28/thread-safe-class-design/)
+
 ### 8月
 
 - [Getting Pixels onto the Screen - Views - objc.io issue #3](http://www.objc.io/issue-3/moving-pixels-onto-the-screen.html#pixels)
@@ -148,6 +151,14 @@ iOS技术文章
 
 - [IOS Application Security Part 25 – Secure Coding Practices for IOS Development](http://resources.infosecinstitute.com/ios-application-security-part-25-secure-coding-practices-ios-development/)
   - [iOS应用程序安全(25)-iOS开发安全编程实践](http://wufawei.com/2013/11/ios-application-security-25/)
+
+- [The Build Process - Build Tools - objc.io issue #6](http://www.objc.io/issue-6/build-process.html)
+  - [iOS探索：iOS程序的Build过程](http://beyondvincent.com/blog/2013/11/21/123-build-process/)
+
+### 12月
+
+- [The Foundation Collection Classes - Foundation - objc.io issue #7](http://www.objc.io/issue-7/collections.html)
+  - [基础集合类](http://objcio.com/blog/2014/01/20/the-foundation-collection-classes/)
 
 ## 2012
 
