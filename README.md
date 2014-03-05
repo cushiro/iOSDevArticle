@@ -71,6 +71,12 @@ iOS技术文章
 - [Thread-Safe Class Design](http://www.objc.io/issue-2/thread-safe-class-design.html)
   - [线程安全类的设计](http://ansonzhao.com/blog/2013/11/28/thread-safe-class-design/)
 
+- [Low-Level Concurrency APIs - Concurrent Programming - objc.io issue #2](http://www.objc.io/issue-2/low-level-concurrency-apis.html)
+  - [Objc的底层并发API](http://webfrogs.me/2013/07/18/low-level_concurrency_apis/)
+
+- [Concurrent Programming: APIs and Challenges - Concurrent Programming - objc.io issue #2](http://www.objc.io/issue-2/concurrency-apis-and-pitfalls.html)
+  - [Objective-C并发编程：API和挑战](http://blog.jobbole.com/52647/)
+
 ### 8月
 
 - [Getting Pixels onto the Screen - Views - objc.io issue #3](http://www.objc.io/issue-3/moving-pixels-onto-the-screen.html#pixels)
@@ -159,6 +165,9 @@ iOS技术文章
 
 - [The Foundation Collection Classes - Foundation - objc.io issue #7](http://www.objc.io/issue-7/collections.html)
   - [基础集合类](http://objcio.com/blog/2014/01/20/the-foundation-collection-classes/)
+
+- [Value Objects - Foundation - objc.io issue #7](http://www.objc.io/issue-7/value-objects.html)
+  - [Foundation框架系列译文：值对象](http://blog.jobbole.com/53850/)
 
 ## 2012
 
