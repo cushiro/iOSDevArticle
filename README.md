@@ -3,6 +3,19 @@ iOS技术文章
 
 这个项目的计划是收集高质量的iOS技术文章，欢迎添砖加瓦。
 
+## 2014年
+
+### 2月
+
+- [NSString and Unicode - Strings - objc.io issue #9](http://www.objc.io/issue-9/unicode.html)
+  - [NSString & Unicode](http://zhuanlan.zhihu.com/cbbcd/19687727)
+
+- [String Parsing - Strings - objc.io issue #9](http://www.objc.io/issue-9/string-parsing.html)
+  - [objc.io 第9期之字符串解析](http://iosinit.com/?p=960)
+
+- [String Rendering - Strings - objc.io issue #9](http://www.objc.io/issue-9/string-rendering.html)
+  - [objc.io 第9期之字符串渲染](http://iosinit.com/?p=880)
+
 ## 2013年
 
 ### 4月
@@ -138,6 +151,9 @@ iOS技术文章
 - [IOS Application Security Part 21 – ARM and GDB Basics](http://resources.infosecinstitute.com/ios-application-security-part-21-arm-gdb-basics/)
   - [iOS应用程序安全(21)-ARM和GDB基础](http://wufawei.com/2013/11/ios-application-security-21/)
 
+- [Re-Designing an App for iOS 7 - iOS 7 - objc.io issue #5](http://www.objc.io/issue-5/redesigning-for-ios-7.html)
+  - [以Grocery List为例介绍如何针对iOS 7重新设计应用](http://www.devdiv.com/grocery_list_ios_-blog-323652-52003.html)
+
 ### 11月
 
 - [Mach-O Executables - Build Tools - objc.io issue #6](http://www.objc.io/issue-6/mach-o-executables.html)
@@ -168,6 +184,12 @@ iOS技术文章
 
 - [Value Objects - Foundation - objc.io issue #7](http://www.objc.io/issue-7/value-objects.html)
   - [Foundation框架系列译文：值对象](http://blog.jobbole.com/53850/)
+
+- [Communication Patterns - Foundation - objc.io issue #7](http://www.objc.io/issue-7/communication-patterns.html)
+  - [iOS中消息的传递机制](http://beyondvincent.com/blog/2013/12/14/124-communication-patterns/)
+
+- [Custom Formatters - Foundation - objc.io issue #7](http://www.objc.io/issue-7/nsformatter.html)
+  - [Foundation框架系列译文：自定义格式化程序](http://blog.jobbole.com/54149/)
 
 ## 2012
 
