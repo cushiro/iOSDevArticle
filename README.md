@@ -16,6 +16,9 @@ iOS技术文章
 - [String Rendering - Strings - objc.io issue #9](http://www.objc.io/issue-9/string-rendering.html)
   - [objc.io 第9期之字符串渲染](http://iosinit.com/?p=880)
 
+- [Working with Strings](http://www.objc.io/issue-9/working-with-strings.html)
+  - [objc.io 第9期之玩转字符串](http://iosinit.com/?p=854)
+
 ## 2013年
 
 ### 4月
@@ -176,6 +179,8 @@ iOS技术文章
 
 - [The Build Process - Build Tools - objc.io issue #6](http://www.objc.io/issue-6/build-process.html)
   - [iOS探索：iOS程序的Build过程](http://beyondvincent.com/blog/2013/11/21/123-build-process/)
+
+- [iOS 7 教程：浅析Text Kit](http://beyondvincent.com/blog/2013/11/12/121-brief-analysis-text-kit/)
 
 ### 12月
 
