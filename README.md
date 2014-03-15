@@ -109,6 +109,9 @@ iOS技术文章
 - [IOS Application Security Part 14 – Gathering information using Sogeti Data Protection tools](http://resources.infosecinstitute.com/ios-application-security-part-14-gathering-information-using-sogeti-data-protection-tools/)
   - [iOS应用程序安全(14)-使用Sogeti Data Protection tools收集信息](http://wufawei.com/2013/11/ios-application-security-14/)
 
+- [Custom Controls - Views - objc.io issue #3](http://www.objc.io/issue-3/custom-controls.html)
+  - [自定义控件](http://objcio.com/blog/2014/03/10/custom-controls/)
+
 ### 9月
 
 - [block使用小结、在arc中使用block、如何防止循环引用](http://www.cnbluebox.com/?p=255)
@@ -156,6 +159,9 @@ iOS技术文章
 
 - [Re-Designing an App for iOS 7 - iOS 7 - objc.io issue #5](http://www.objc.io/issue-5/redesigning-for-ios-7.html)
   - [以Grocery List为例介绍如何针对iOS 7重新设计应用](http://www.devdiv.com/grocery_list_ios_-blog-323652-52003.html)
+
+- [View Controller Transitions - iOS 7 - objc.io issue #5](http://www.objc.io/issue-5/view-controller-transitions.html)
+  - [iOS 7 新特性：视图控制器切换API](http://blog.jobbole.com/51588/)
 
 ### 11月
 
