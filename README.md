@@ -21,39 +21,114 @@ iOS技术文章
 
 ## 2013年
 
-### 4月
+### 12月
 
-- [25 iOS App Performance Tips & Tricks](http://www.marcelofabri.com/25-ios-app-performance-tips-and-tricks/)
-  - [iOS应用性能调优的25个建议和技巧](http://blog.jobbole.com/37984/)
+- [The Foundation Collection Classes - Foundation - objc.io issue #7](http://www.objc.io/issue-7/collections.html)
+  - [基础集合类](http://objcio.com/blog/2014/01/20/the-foundation-collection-classes/)
 
-- [IOS Application security Part 1 – Setting up a mobile pentesting platform](http://resources.infosecinstitute.com/ios-application-security-part-1-setting-up-a-mobile-pentesting-platform/)
-  - [iOS应用程序安全(1)-搭建移动渗透测试平台](http://wufawei.com/2013/11/ios-application-security-1/)
+- [Value Objects - Foundation - objc.io issue #7](http://www.objc.io/issue-7/value-objects.html)
+  - [Foundation框架系列译文：值对象](http://blog.jobbole.com/53850/)
 
-### 5月
+- [Communication Patterns - Foundation - objc.io issue #7](http://www.objc.io/issue-7/communication-patterns.html)
+  - [iOS中消息的传递机制](http://beyondvincent.com/blog/2013/12/14/124-communication-patterns/)
 
-- [谈谈Objective-C的警告](http://onevcat.com/2013/05/talk-about-warning/)
-- [IOS Application security Part 2 – Getting class information of IOS apps](http://resources.infosecinstitute.com/ios-application-security-part-2-getting-class-information-of-ios-apps/)
-  - [iOS应用程序安全(2)-获得iOS应用程序的类信息](http://wufawei.com/2013/11/ios-application-security-2/)
+- [Custom Formatters - Foundation - objc.io issue #7](http://www.objc.io/issue-7/nsformatter.html)
+  - [Foundation框架系列译文：自定义格式化程序](http://blog.jobbole.com/54149/)
 
-### 6月
+### 11月
 
-- [objc.io Issue #1 Introduction](http://www.objc.io/issue-1/introduction.html)
-  - [介绍 objc.io](http://tang3w.com/translate/objective-c/objc.io/2013/10/21/介绍-objc.io.html)
+- [Mach-O Executables - Build Tools - objc.io issue #6](http://www.objc.io/issue-6/mach-o-executables.html)
+  - [Mach-O 可执行文件](http://blog.jobbole.com/51527/)
 
-- [iOS Assembly Tutorial: Understanding ARM](http://www.raywenderlich.com/37181/ios-assembly-tutorial)
-  - [iOS汇编教程：ARM(1)](http://beyondvincent.com/blog/2013/06/19/90/)
-  - [iOS汇编教程：ARM(2)](http://beyondvincent.com/blog/2013/06/20/91/)
+- [CocoaPods Under The Hood - Build Tools - objc.io issue #6](http://www.objc.io/issue-6/cocoapods-under-the-hood.html)
+  - [深入理解 CocoaPods](http://blog.jobbole.com/53365/)
 
-- [WWDC 2013 Session笔记 - SpriteKit快速入门和新时代iOS游戏开发指南](http://onevcat.com/2013/06/sprite-kit-start/)
+- [IOS Application Security Part 22 – Runtime Analysis and Manipulation using GDB](http://resources.infosecinstitute.com/ios-application-security-part-22-runtime-analysis-manipulation-using-gdb/)
+  - [iOS应用程序安全(22)-使用GDB进行运行时分析和操作](http://wufawei.com/2013/11/ios-application-security-22/)
 
-- [IOS Application security Part 3 – Understanding the Objective-C Runtime](http://resources.infosecinstitute.com/ios-application-security-part-3-understanding-the-objective-c-runtime/)
-  - [iOS应用程序安全(3)-理解Objective-C Runtime](http://wufawei.com/2013/11/ios-application-security-3/)
+- [IOS Application Security Part 23 – Defending against runtime analysis and manipulation](http://resources.infosecinstitute.com/ios-application-security-part-23-defending-runtime-analysis-manipulation/)
+  - [iOS应用程序安全(23)-对抗运行时分析和操作](http://wufawei.com/2013/11/ios-application-security-23/)
 
-- [iOS Application Security Part 4 – Runtime Analysis Using Cycript (Yahoo Weather App)](http://resources.infosecinstitute.com/ios-application-security-part-4-runtime-analysis-using-cycript-yahoo-weather-app/)
-  - [iOS应用程序安全(4)-用Cycript进行运行时分析(Yahoo天气应用)](http://wufawei.com/2013/11/ios-application-security-4/)
+- [IOS Application Security Part 24 – Jailbreak Detection and Evasion](http://resources.infosecinstitute.com/ios-application-security-part-23-jailbreak-detection-evasion/)
+  - [iOS应用程序安全(24)-越狱检测与绕过](http://wufawei.com/2013/11/ios-application-security-24/)
 
-- [IOS Application security Part 5 – Advanced Runtime analysis and manipulation using Cycript (Yahoo Weather App)](http://resources.infosecinstitute.com/ios-application-security-part-5-advanced-runtime-analysis-and-manipulation-using-cycript-yahoo-weather-app/)
-  - [iOS应用程序安全(5)-用Cycript做运行时分析的高级技巧(Yahoo天气应用)](http://wufawei.com/2013/11/ios-application-security-5/)
+- [IOS Application Security Part 25 – Secure Coding Practices for IOS Development](http://resources.infosecinstitute.com/ios-application-security-part-25-secure-coding-practices-ios-development/)
+  - [iOS应用程序安全(25)-iOS开发安全编程实践](http://wufawei.com/2013/11/ios-application-security-25/)
+
+- [The Build Process - Build Tools - objc.io issue #6](http://www.objc.io/issue-6/build-process.html)
+  - [iOS探索：iOS程序的Build过程](http://beyondvincent.com/blog/2013/11/21/123-build-process/)
+
+- [iOS 7 教程：浅析Text Kit](http://beyondvincent.com/blog/2013/11/12/121-brief-analysis-text-kit/)
+
+### 10月
+
+- [WWDC 2013 Session笔记 - iOS7中的ViewController切换](http://onevcat.com/2013/10/vc-transition-in-ios7/)
+
+- [From NSURLConnection to NSURLSession - iOS 7 - objc.io issue #5](http://www.objc.io/issue-5/from-nsurlconnection-to-nsurlsession.html)
+  - [忘记NSURLConnection，拥抱NSURLSession吧！](http://blog.jobbole.com/52477/)
+
+- [Multitasking in iOS 7 - iOS 7 - objc.io issue #5](http://www.objc.io/issue-5/multitasking.html)
+  - [iOS7的多任务处理](http://blog.jobbole.com/51660/)
+
+- [Getting to Know TextKit - iOS 7 - objc.io issue #5](http://www.objc.io/issue-5/getting-to-know-textkit.html)
+  - [认识 TextKit](http://blog.jobbole.com/51965/)
+
+- [iOS 7: Hidden Gems and Workarounds - iOS 7 - objc.io issue #5](http://www.objc.io/issue-5/iOS7-hidden-gems-and-workarounds.html)
+  - [iOS 7：隐藏的特性和解决之道](http://blog.jobbole.com/51761/)
+
+- [IOS Application Security Part 20 – Local Data Storage (NSUserDefaults, CoreData, Sqlite, Plist files)](http://resources.infosecinstitute.com/ios-application-security-part-20-local-data-storage-nsuserdefaults-coredata-sqlite-plist-files/)
+  - [iOS应用程序安全(20)-本地数据存储及其安全性（NSUserDefaults, CoreData, Sqlite, Plist 文件）](http://wufawei.com/2013/11/ios-application-security-20/)
+
+- [IOS Application Security Part 21 – ARM and GDB Basics](http://resources.infosecinstitute.com/ios-application-security-part-21-arm-gdb-basics/)
+  - [iOS应用程序安全(21)-ARM和GDB基础](http://wufawei.com/2013/11/ios-application-security-21/)
+
+- [Re-Designing an App for iOS 7 - iOS 7 - objc.io issue #5](http://www.objc.io/issue-5/redesigning-for-ios-7.html)
+  - [以Grocery List为例介绍如何针对iOS 7重新设计应用](http://www.devdiv.com/grocery_list_ios_-blog-323652-52003.html)
+
+- [View Controller Transitions - iOS 7 - objc.io issue #5](http://www.objc.io/issue-5/view-controller-transitions.html)
+  - [iOS 7 新特性：视图控制器切换API](http://blog.jobbole.com/51588/)
+
+### 9月
+
+- [block使用小结、在arc中使用block、如何防止循环引用](http://www.cnbluebox.com/?p=255)
+
+- [Xcode磁盘空间大清理](http://www.iwangke.me/2013/09/09/clean-xcode-to-free-up-disk-space/)
+
+- [构建iOS持续集成平台（一）——自动化构建和依赖管理](http://www.infoq.com/cn/articles/build-ios-continuous-integration-platform-part1)
+
+- [IOS Application Security Part 15 – Static Analysis of IOS Applications using iNalyzer](http://resources.infosecinstitute.com/part-15-static-analysis-of-ios-apps-using-inalyzer/)
+  - [iOS应用程序安全(15)-使用iNalyzer对iOS应用进行静态分析](http://wufawei.com/2013/11/ios-application-security-15/)
+
+- [IOS Application Security Part 16 – Runtime Analysis of IOS Applications using iNalyzer](http://resources.infosecinstitute.com/ios-app-security-part-16-runtime-analysis-of-ios-apps-using-inalyzer/)
+  - [iOS应用程序安全(16)-使用iNalyzer对iOS应用进行动态分析](http://wufawei.com/2013/11/ios-application-security-16/)
+
+- [IOS Application Security Part 17 – Black-box assessment of IOS Applications using Introspy](http://resources.infosecinstitute.com/ios-app-security-part-17-black-box-assess-ios-apps-using-introspy/)
+  - [iOS应用程序安全(17)-使用Introspy对iOS应用进行黑盒测试](http://wufawei.com/2013/11/ios-application-security-17/)
+
+- [IOS Application Security Part 18 – Detecting custom signatures with Introspy](http://resources.infosecinstitute.com/ios-application-security-part-18-detecting-custom-signatures-with-introspy/)
+  - [iOS应用程序安全(18)-使用Introspy检测自定义签名](http://wufawei.com/2013/11/ios-application-security-18/)
+
+- [IOS Application Security Part 19 – Programmatical Usage of Introspy](http://resources.infosecinstitute.com/ios-application-security-part-19-programmatical-usage-of-introspy/)
+  - [iOS应用程序安全(19)-在程序中使用Introspy](http://wufawei.com/2013/11/ios-application-security-19/)
+
+### 8月
+
+- [Getting Pixels onto the Screen - Views - objc.io issue #3](http://www.objc.io/issue-3/moving-pixels-onto-the-screen.html#pixels)
+  - [绘制像素到屏幕](http://blog.jobbole.com/54511/)
+
+- [WWDC 2013 Session笔记 - iOS7中的多任务](http://onevcat.com/2013/08/ios7-background-multitask/)
+
+- [IOS Application Security Part 12 – Dumping Keychain Data](http://resources.infosecinstitute.com/ios-application-security-part-12-dumping-keychain-data/)
+  - [iOS应用程序安全(12)-导出Keychain数据](http://wufawei.com/2013/11/ios-application-security-12/)
+
+- [IOS Application Security Part 13 – Booting a custom Ramdisk using Sogeti Data Protection tools](http://resources.infosecinstitute.com/ios-application-security-part-13-booting-a-custom-ramdisk-using-sogeti-data-protection-tools/)
+  - [iOS应用程序安全(13)-使用Sogeti Data Protection tools启动定制的Ramdisk](http://wufawei.com/2013/11/ios-application-security-13/)
+
+- [IOS Application Security Part 14 – Gathering information using Sogeti Data Protection tools](http://resources.infosecinstitute.com/ios-application-security-part-14-gathering-information-using-sogeti-data-protection-tools/)
+  - [iOS应用程序安全(14)-使用Sogeti Data Protection tools收集信息](http://wufawei.com/2013/11/ios-application-security-14/)
+
+- [Custom Controls - Views - objc.io issue #3](http://www.objc.io/issue-3/custom-controls.html)
+  - [自定义控件](http://objcio.com/blog/2014/03/10/custom-controls/)
 
 ### 7月
 
@@ -93,114 +168,39 @@ iOS技术文章
 - [Concurrent Programming: APIs and Challenges - Concurrent Programming - objc.io issue #2](http://www.objc.io/issue-2/concurrency-apis-and-pitfalls.html)
   - [Objective-C并发编程：API和挑战](http://blog.jobbole.com/52647/)
 
-### 8月
+### 6月
 
-- [Getting Pixels onto the Screen - Views - objc.io issue #3](http://www.objc.io/issue-3/moving-pixels-onto-the-screen.html#pixels)
-  - [绘制像素到屏幕](http://blog.jobbole.com/54511/)
+- [objc.io Issue #1 Introduction](http://www.objc.io/issue-1/introduction.html)
+  - [介绍 objc.io](http://tang3w.com/translate/objective-c/objc.io/2013/10/21/介绍-objc.io.html)
 
-- [WWDC 2013 Session笔记 - iOS7中的多任务](http://onevcat.com/2013/08/ios7-background-multitask/)
+- [iOS Assembly Tutorial: Understanding ARM](http://www.raywenderlich.com/37181/ios-assembly-tutorial)
+  - [iOS汇编教程：ARM(1)](http://beyondvincent.com/blog/2013/06/19/90/)
+  - [iOS汇编教程：ARM(2)](http://beyondvincent.com/blog/2013/06/20/91/)
 
-- [IOS Application Security Part 12 – Dumping Keychain Data](http://resources.infosecinstitute.com/ios-application-security-part-12-dumping-keychain-data/)
-  - [iOS应用程序安全(12)-导出Keychain数据](http://wufawei.com/2013/11/ios-application-security-12/)
+- [WWDC 2013 Session笔记 - SpriteKit快速入门和新时代iOS游戏开发指南](http://onevcat.com/2013/06/sprite-kit-start/)
 
-- [IOS Application Security Part 13 – Booting a custom Ramdisk using Sogeti Data Protection tools](http://resources.infosecinstitute.com/ios-application-security-part-13-booting-a-custom-ramdisk-using-sogeti-data-protection-tools/)
-  - [iOS应用程序安全(13)-使用Sogeti Data Protection tools启动定制的Ramdisk](http://wufawei.com/2013/11/ios-application-security-13/)
+- [IOS Application security Part 3 – Understanding the Objective-C Runtime](http://resources.infosecinstitute.com/ios-application-security-part-3-understanding-the-objective-c-runtime/)
+  - [iOS应用程序安全(3)-理解Objective-C Runtime](http://wufawei.com/2013/11/ios-application-security-3/)
 
-- [IOS Application Security Part 14 – Gathering information using Sogeti Data Protection tools](http://resources.infosecinstitute.com/ios-application-security-part-14-gathering-information-using-sogeti-data-protection-tools/)
-  - [iOS应用程序安全(14)-使用Sogeti Data Protection tools收集信息](http://wufawei.com/2013/11/ios-application-security-14/)
+- [iOS Application Security Part 4 – Runtime Analysis Using Cycript (Yahoo Weather App)](http://resources.infosecinstitute.com/ios-application-security-part-4-runtime-analysis-using-cycript-yahoo-weather-app/)
+  - [iOS应用程序安全(4)-用Cycript进行运行时分析(Yahoo天气应用)](http://wufawei.com/2013/11/ios-application-security-4/)
 
-- [Custom Controls - Views - objc.io issue #3](http://www.objc.io/issue-3/custom-controls.html)
-  - [自定义控件](http://objcio.com/blog/2014/03/10/custom-controls/)
+- [IOS Application security Part 5 – Advanced Runtime analysis and manipulation using Cycript (Yahoo Weather App)](http://resources.infosecinstitute.com/ios-application-security-part-5-advanced-runtime-analysis-and-manipulation-using-cycript-yahoo-weather-app/)
+  - [iOS应用程序安全(5)-用Cycript做运行时分析的高级技巧(Yahoo天气应用)](http://wufawei.com/2013/11/ios-application-security-5/)
 
-### 9月
+### 5月
 
-- [block使用小结、在arc中使用block、如何防止循环引用](http://www.cnbluebox.com/?p=255)
+- [谈谈Objective-C的警告](http://onevcat.com/2013/05/talk-about-warning/)
+- [IOS Application security Part 2 – Getting class information of IOS apps](http://resources.infosecinstitute.com/ios-application-security-part-2-getting-class-information-of-ios-apps/)
+  - [iOS应用程序安全(2)-获得iOS应用程序的类信息](http://wufawei.com/2013/11/ios-application-security-2/)
 
-- [Xcode磁盘空间大清理](http://www.iwangke.me/2013/09/09/clean-xcode-to-free-up-disk-space/)
+### 4月
 
-- [构建iOS持续集成平台（一）——自动化构建和依赖管理](http://www.infoq.com/cn/articles/build-ios-continuous-integration-platform-part1)
+- [25 iOS App Performance Tips & Tricks](http://www.marcelofabri.com/25-ios-app-performance-tips-and-tricks/)
+  - [iOS应用性能调优的25个建议和技巧](http://blog.jobbole.com/37984/)
 
-- [IOS Application Security Part 15 – Static Analysis of IOS Applications using iNalyzer](http://resources.infosecinstitute.com/part-15-static-analysis-of-ios-apps-using-inalyzer/)
-  - [iOS应用程序安全(15)-使用iNalyzer对iOS应用进行静态分析](http://wufawei.com/2013/11/ios-application-security-15/)
-
-- [IOS Application Security Part 16 – Runtime Analysis of IOS Applications using iNalyzer](http://resources.infosecinstitute.com/ios-app-security-part-16-runtime-analysis-of-ios-apps-using-inalyzer/)
-  - [iOS应用程序安全(16)-使用iNalyzer对iOS应用进行动态分析](http://wufawei.com/2013/11/ios-application-security-16/)
-
-- [IOS Application Security Part 17 – Black-box assessment of IOS Applications using Introspy](http://resources.infosecinstitute.com/ios-app-security-part-17-black-box-assess-ios-apps-using-introspy/)
-  - [iOS应用程序安全(17)-使用Introspy对iOS应用进行黑盒测试](http://wufawei.com/2013/11/ios-application-security-17/)
-
-- [IOS Application Security Part 18 – Detecting custom signatures with Introspy](http://resources.infosecinstitute.com/ios-application-security-part-18-detecting-custom-signatures-with-introspy/)
-  - [iOS应用程序安全(18)-使用Introspy检测自定义签名](http://wufawei.com/2013/11/ios-application-security-18/)
-
-- [IOS Application Security Part 19 – Programmatical Usage of Introspy](http://resources.infosecinstitute.com/ios-application-security-part-19-programmatical-usage-of-introspy/)
-  - [iOS应用程序安全(19)-在程序中使用Introspy](http://wufawei.com/2013/11/ios-application-security-19/)
-
-### 10月
-
-- [WWDC 2013 Session笔记 - iOS7中的ViewController切换](http://onevcat.com/2013/10/vc-transition-in-ios7/)
-
-- [From NSURLConnection to NSURLSession - iOS 7 - objc.io issue #5](http://www.objc.io/issue-5/from-nsurlconnection-to-nsurlsession.html)
-  - [忘记NSURLConnection，拥抱NSURLSession吧！](http://blog.jobbole.com/52477/)
-
-- [Multitasking in iOS 7 - iOS 7 - objc.io issue #5](http://www.objc.io/issue-5/multitasking.html)
-  - [iOS7的多任务处理](http://blog.jobbole.com/51660/)
-
-- [Getting to Know TextKit - iOS 7 - objc.io issue #5](http://www.objc.io/issue-5/getting-to-know-textkit.html)
-  - [认识 TextKit](http://blog.jobbole.com/51965/)
-
-- [iOS 7: Hidden Gems and Workarounds - iOS 7 - objc.io issue #5](http://www.objc.io/issue-5/iOS7-hidden-gems-and-workarounds.html)
-  - [iOS 7：隐藏的特性和解决之道](http://blog.jobbole.com/51761/)
-
-- [IOS Application Security Part 20 – Local Data Storage (NSUserDefaults, CoreData, Sqlite, Plist files)](http://resources.infosecinstitute.com/ios-application-security-part-20-local-data-storage-nsuserdefaults-coredata-sqlite-plist-files/)
-  - [iOS应用程序安全(20)-本地数据存储及其安全性（NSUserDefaults, CoreData, Sqlite, Plist 文件）](http://wufawei.com/2013/11/ios-application-security-20/)
-
-- [IOS Application Security Part 21 – ARM and GDB Basics](http://resources.infosecinstitute.com/ios-application-security-part-21-arm-gdb-basics/)
-  - [iOS应用程序安全(21)-ARM和GDB基础](http://wufawei.com/2013/11/ios-application-security-21/)
-
-- [Re-Designing an App for iOS 7 - iOS 7 - objc.io issue #5](http://www.objc.io/issue-5/redesigning-for-ios-7.html)
-  - [以Grocery List为例介绍如何针对iOS 7重新设计应用](http://www.devdiv.com/grocery_list_ios_-blog-323652-52003.html)
-
-- [View Controller Transitions - iOS 7 - objc.io issue #5](http://www.objc.io/issue-5/view-controller-transitions.html)
-  - [iOS 7 新特性：视图控制器切换API](http://blog.jobbole.com/51588/)
-
-### 11月
-
-- [Mach-O Executables - Build Tools - objc.io issue #6](http://www.objc.io/issue-6/mach-o-executables.html)
-  - [Mach-O 可执行文件](http://blog.jobbole.com/51527/)
-
-- [CocoaPods Under The Hood - Build Tools - objc.io issue #6](http://www.objc.io/issue-6/cocoapods-under-the-hood.html)
-  - [深入理解 CocoaPods](http://blog.jobbole.com/53365/)
-
-- [IOS Application Security Part 22 – Runtime Analysis and Manipulation using GDB](http://resources.infosecinstitute.com/ios-application-security-part-22-runtime-analysis-manipulation-using-gdb/)
-  - [iOS应用程序安全(22)-使用GDB进行运行时分析和操作](http://wufawei.com/2013/11/ios-application-security-22/)
-
-- [IOS Application Security Part 23 – Defending against runtime analysis and manipulation](http://resources.infosecinstitute.com/ios-application-security-part-23-defending-runtime-analysis-manipulation/)
-  - [iOS应用程序安全(23)-对抗运行时分析和操作](http://wufawei.com/2013/11/ios-application-security-23/)
-
-- [IOS Application Security Part 24 – Jailbreak Detection and Evasion](http://resources.infosecinstitute.com/ios-application-security-part-23-jailbreak-detection-evasion/)
-  - [iOS应用程序安全(24)-越狱检测与绕过](http://wufawei.com/2013/11/ios-application-security-24/)
-
-- [IOS Application Security Part 25 – Secure Coding Practices for IOS Development](http://resources.infosecinstitute.com/ios-application-security-part-25-secure-coding-practices-ios-development/)
-  - [iOS应用程序安全(25)-iOS开发安全编程实践](http://wufawei.com/2013/11/ios-application-security-25/)
-
-- [The Build Process - Build Tools - objc.io issue #6](http://www.objc.io/issue-6/build-process.html)
-  - [iOS探索：iOS程序的Build过程](http://beyondvincent.com/blog/2013/11/21/123-build-process/)
-
-- [iOS 7 教程：浅析Text Kit](http://beyondvincent.com/blog/2013/11/12/121-brief-analysis-text-kit/)
-
-### 12月
-
-- [The Foundation Collection Classes - Foundation - objc.io issue #7](http://www.objc.io/issue-7/collections.html)
-  - [基础集合类](http://objcio.com/blog/2014/01/20/the-foundation-collection-classes/)
-
-- [Value Objects - Foundation - objc.io issue #7](http://www.objc.io/issue-7/value-objects.html)
-  - [Foundation框架系列译文：值对象](http://blog.jobbole.com/53850/)
-
-- [Communication Patterns - Foundation - objc.io issue #7](http://www.objc.io/issue-7/communication-patterns.html)
-  - [iOS中消息的传递机制](http://beyondvincent.com/blog/2013/12/14/124-communication-patterns/)
-
-- [Custom Formatters - Foundation - objc.io issue #7](http://www.objc.io/issue-7/nsformatter.html)
-  - [Foundation框架系列译文：自定义格式化程序](http://blog.jobbole.com/54149/)
+- [IOS Application security Part 1 – Setting up a mobile pentesting platform](http://resources.infosecinstitute.com/ios-application-security-part-1-setting-up-a-mobile-pentesting-platform/)
+  - [iOS应用程序安全(1)-搭建移动渗透测试平台](http://wufawei.com/2013/11/ios-application-security-1/)
 
 ## 2012
 
